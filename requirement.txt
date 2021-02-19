@@ -1,3 +1,5 @@
 pip install django 
- django-admin startproject tutorial
- python manage.py runserver 
+django-admin startproject tutorial :- To StartDjango Project
+python manage.py runserver :- To Runserver
+python manage.py makemigrations :- To Change the model Into Sql Queries
+python manage.py migrate :- To Execute The Sql Queries
